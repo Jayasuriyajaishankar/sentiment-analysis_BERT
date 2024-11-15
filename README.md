@@ -3,7 +3,7 @@
 Flipkart Reviews Sentiment Analysis
 This project performs sentiment analysis on Flipkart product reviews using a fine-tuned BERT model. Reviews are classified as either positive or negative based on user ratings. The project uses transformers and torch libraries for model implementation.
 
-Table of Contents
+Table of Contents:
 Project Overview
 Dataset
 Data Preprocessing
